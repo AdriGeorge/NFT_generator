@@ -1,4 +1,5 @@
 const layersOrder = [
+  { name: 'background', number: 4 },
   { name: 'planets', number: 8 },
   { name: 'body', number: 4 },
   { name: 'eyes', number: 3 },
@@ -16,6 +17,6 @@ const rarity = [
   { key: '_sr', val: 'super rare' },
 ];
 
-const defaultEdition = 50;
+const defaultEdition = 100;
 
 module.exports = { layersOrder, format, rarity, defaultEdition };
