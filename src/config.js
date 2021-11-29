@@ -1,9 +1,9 @@
 const layersOrder = [
   { name: 'background', number: 4 },
   { name: 'planets', number: 8 },
-  { name: 'body', number: 4 },
-  { name: 'eyes', number: 3 },
-  { name: 'mouth', number: 2 },
+  { name: 'body', number: 5 },
+  { name: 'eyes', number: 4 },
+  { name: 'mouth', number: 3 },
 ];
 
 const format = {
